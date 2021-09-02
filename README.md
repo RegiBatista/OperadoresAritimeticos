@@ -1,0 +1,2 @@
+# OperadoresAritimeticos
+Cálculos gerais
